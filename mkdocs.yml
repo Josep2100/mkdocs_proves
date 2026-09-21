@@ -1,0 +1,20 @@
+site_name: Web De Josep Calvo
+theme:
+  name: material
+  palette:
+    # Mode clar (per defecte)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    # Mode fosc automàtic
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+
+nav:
+  - Comandos git: material.md
+  - Web Linux Facil: material2.md
+   
+
