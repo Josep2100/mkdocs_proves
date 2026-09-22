@@ -16,7 +16,11 @@ Permite modificar el último commit, por ejemplo, añadiendo un fichero que se h
 
 ### `git checkout -- <archivo>`
 
-Permite quitar los cambios de un archivo del **Workspace**, devolviéndolo a la última versión confirmada.
+Permite quitar los cambios de un archivo del **Workspace**, devolviéndolo a la última versión confirmada y tambien cambiar de rama, es decir, si estoy en la rama main y quiero cambiar la rama a segunda. hariamos un checkout.
+
+### git branch
+
+Permite ver en que rama estas y tambien crear la rama que tu quieras.
 
 ## Python
 
